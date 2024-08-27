@@ -1,1 +1,1 @@
-# nexword_predictor_using_lst
+# nexword_predictor_using_lstm
